@@ -1,0 +1,7 @@
+identity:
+  # This section are data elements about you
+  first_name: Test-A
+  last_name: Test-P
+  preferred_name: Test-A Test-P
+  primary_email: test-a.test-p@hotmail.com
+  # phone_number:           # optional
